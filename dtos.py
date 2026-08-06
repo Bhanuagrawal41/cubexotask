@@ -6,5 +6,5 @@ class Account(BaseModel):
             Account_Type : str
             Account_Balance : float
 
-class AmountDTO(BaseModel):
-    amount: float
+# class AmountDTO(BaseModel):
+#     amount: float
